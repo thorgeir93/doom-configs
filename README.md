@@ -2,14 +2,6 @@
 
 This repo contains my personal doom (Emacs) configs.
 
-First install doom:
+See doom emacs github page for more info about installation: https://github.com/doomemacs/doomemacs
 
-```sh
-TODO-now
-```
-
-Then apply the configs:
-
-```sh
-```
-
+The configs in this repository might conflict with the newest update from doom.
